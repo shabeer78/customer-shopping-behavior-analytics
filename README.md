@@ -66,16 +66,20 @@ Each query is written with **clear comments** to reflect business intent and ana
 
 ---
 
-### 4️⃣ Data Visualization & Dashboarding (Power BI)
+## 📊 Data Visualization & Dashboarding (Power BI)
 📊 **customer_behavior_dashboard.pbix**
 
-The dashboard provides:
-- Interactive KPIs and filters  
-- Customer segmentation insights  
-- Revenue and purchase trend analysis  
-- Stakeholder-friendly visual summaries  
+Below is the interactive Power BI dashboard designed to analyze customer behavior, revenue trends, and segmentation insights.
 
-Designed to support **data-driven decision-making**.
+![Customer Behavior Dashboard](assets/customer_behavior_dashboard.png)
+
+**Key Dashboard Insights:**
+- Non-subscribers form the majority of customers (~73%)
+- Clothing category generates the highest revenue and sales
+- Young Adults contribute the most to overall revenue
+- Subscription status significantly impacts spending behavior
+
+Designed to support **data-driven decision-making** for stakeholders.
 
 ---
 
