@@ -71,7 +71,7 @@ Each query is written with **clear comments** to reflect business intent and ana
 
 Below is the interactive Power BI dashboard designed to analyze customer behavior, revenue trends, and segmentation insights.
 
-![Customer Behavior Dashboard](assets/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_dashboard_overview.png)
 
 **Key Dashboard Insights:**
 - Non-subscribers form the majority of customers (~73%)
